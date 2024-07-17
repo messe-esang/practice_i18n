@@ -1,0 +1,10 @@
+{
+    "messages" :{
+        "helloWorld" : "안녕! 세계!",
+        "alertTest" : "테스트입니다.",
+        "enterCode": "{time}초 내에 인증번호를 입력해주세요."
+    },
+    "login" : {
+        "loginAlert" : "로그인해주세요."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "messages" : {
+        "helloWorld" : "helloWorld",
+        "alertTest" : "This is Test.",
+        "enterCode": "Please enter the verification code within {time} seconds."
+    },
+    "login" : {
+        "loginAlert" : "Please Login First."
+    }
+}
